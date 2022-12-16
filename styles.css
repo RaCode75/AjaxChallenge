@@ -7,5 +7,9 @@
 .container{
     border: solid 4px black;
     padding: 1rem;
-    
+
+}
+
+.input-text{
+    border: solid 2px black;
 }
